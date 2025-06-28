@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Saleem</h1>
-<h3 align="center">AI Engineer From Islamabad, Pakistan</h3>
+<h3 align="center">Aspiring Frontend Developer | Passionate about Building Clean & Interactive Web Interfaces</h3>
 
-- 🌱 I’m currently learning **Web Development, Machine Learning**
+- 🔭 I recently worked on **“Customized Shop for Dropshop”**, a web-based clothing personalization platform.  
+- 🌱 Currently exploring **React.js, REST APIs, and Deployment tools**.  
+- 💡 Keen to apply **AI + Web** for smart, user-centric interfaces.  
+- 📫 Reach me at **tayyabasaleem123@gmail.com**  
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Machine Learning projects.**
+---
 
-- 📫 How to reach me **tayyabasaleem312@gmail.com**
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 
-- 📄 Know about my experiences [linkedin.com/in/tayyaba99/](linkedin.com/in/tayyaba99/)
+---
 
-- ⚡ Fun fact **I love Chai & Traveling**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tayyaba99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tayyaba99/" height="30" width="40" /></a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayyaba-22&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Tayyaba-22&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyaba-22&show_icons=true&locale=en&layout=compact" alt="tayyaba-22" /></p>
+### 🚀 Projects
+- 💻 [Final-Year-Project](https://github.com/Tayyaba-22/Final-Year-Project) — A custom clothing design platform for Dropshop users.
+- ✍️ [Handwriting Recognition](https://github.com/Tayyaba-22/Handwriting-Recognition) — AI-based digit recognition system using Python and ML.
+- 📊 [Disease Prediction](https://github.com/Tayyaba-22/Disease-Prediction) — ML model for predicting common illnesses from symptoms.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-22&" alt="tayyaba-22" /></p>
+---
+
+### 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/tayyaba-saleem-9a165527a/)
