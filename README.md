@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Frontend Developer | Passionate about Building Clean & Interactive Web Interfaces</h3>
 
 - 🔭 I recently worked on **“Customized Shop for Dropshop”**, a web-based clothing personalization platform.  
-- 🌱 Currently exploring **React.js, REST APIs, and Deployment tools**.  
-- 💡 Keen to apply **AI + Web** for smart, user-centric interfaces.  
+- 🌱 Currently exploring **React.js, Manual Testing, Agile, Srum**.
 - 📫 Reach me at **tayyabasaleem123@gmail.com**  
 
 ---
