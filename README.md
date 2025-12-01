@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Saleem</h1>
-<h3 align="center">Aspiring Frontend Developer | Passionate about Building Clean & Interactive Web Interfaces</h3>
+<h3 align="center">Junior SQA Engineer | Passionate about Manual and Automation Testing </h3>
 
 - 🔭 I recently worked on **“Customized Shop for Dropshop”**, a web-based clothing personalization platform.  
 - 🌱 Currently exploring **React.js, Manual Testing, Agile, Srum**.
